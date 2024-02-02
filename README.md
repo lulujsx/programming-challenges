@@ -6,4 +6,4 @@
 
 ### Execute JavaScript file
 - Open Terminal or Command Prompt inside folder.
-- Type `node kovix.js` and press ENTER.
+- Type `node [filename].js` and press ENTER.
